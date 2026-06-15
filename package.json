@@ -1,0 +1,13 @@
+ {
+  "name": "m_bot",
+  "version": "1.0.0",
+  "description": "M_Bot WhatsApp Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "latest",
+    "@hapi/boom": "latest"
+  }
+ }
